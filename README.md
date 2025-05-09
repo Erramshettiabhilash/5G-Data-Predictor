@@ -49,8 +49,7 @@ web-app interface
 ![image](https://github.com/user-attachments/assets/d03e4ed1-5a1e-4008-941b-553d790ef114)
 
 Git-clone:by uing thi link:
-git clone https://github.com/ujwalreddybattu04/5G-Data-Predictor-Xgboost.git
-
+https://github.com/Erramshettiabhilash/5G-Data-Predictor
 🌐 Live Demo
 The 5G Data Usage Prediction App is now live on Streamlit Cloud! 🚀
 🔗 Access the app here: 👉 https://5g-data-predictor-xgboost-7gj2gkx36qj5y8rtwrxocc.streamlit.app/
